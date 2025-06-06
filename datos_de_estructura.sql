@@ -27,3 +27,15 @@ VALUES  ('PESSI','bebida', NULL, 5500.00),
         ('TE','bebida', NULL, 1500.00);
 
 
+
+-- 4. **Agregar un ingrediente a la base de datos:**
+
+INSERT INTO ingredientes (nombre, precio_adicional)
+VALUES ('Champiñones', 3000 ),
+       ('Tocineta', 6000 ),
+       ('Extra queso', 2000 ),
+       ('cebolla', 5000 ),
+       ('Papas fritas ', 13000);
+
+
+
