@@ -40,6 +40,5 @@ VALUES ('Champiñones', 3000 ),
 -- 5. **Crear un pedido para un cliente:**
 
 INSERT INTO pedidos (id_cliente, hora_recogida, estado_pago)
-VALUES (1, '09:32:00', 'pendiente')
-
+VALUES (1, '09:32:00', 'pendiente');
 
