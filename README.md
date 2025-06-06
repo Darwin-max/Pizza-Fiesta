@@ -17,3 +17,8 @@ Detallado del Pedido:
 El sistema debe detallar el proceso de preparación de cada pizza, permitiendo al cliente seleccionar los ingredientes disponibles para personalizar su pizza.
 Visualización de costos según el tamaño de la pizza y los ingredientes añadidos.
 Pagos y Recogida: Los pedidos solo comenzarán a prepararse una vez realizado el pago, sin costos adicionales, ya que los clientes recogen personalmente su orden.
+
+
+ESTRUCTURA DE BASE DE DATOS 
+
+E![alt text](image.png)
